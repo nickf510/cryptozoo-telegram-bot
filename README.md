@@ -15,7 +15,7 @@
 
 ### How to find chat_ids
 - send "/my_id @YOUR_BOT_USERNAME"
-- visit https://api.telegram.org/bot\<YOUR_BOT_API_KEY\>/getUpdates
+- visit https://api.telegram.org/bot<YOUR_BOT_API_KEY\>/getUpdates
 - extract chatid from the returned json
 - if it doesn't work, try again
 
